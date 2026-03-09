@@ -1,0 +1,52 @@
+name: silva
+description: SILVA - Animal Tracking & Rescue Application
+publish_to: 'none'
+version: 2.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Firebase
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.0
+  cloud_firestore: ^5.2.0
+  firebase_storage: ^12.1.0
+
+  # Auth providers
+  google_sign_in: ^6.2.1
+  sign_in_with_apple: ^6.1.0
+
+  # Maps
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.0
+
+  # Charts
+  fl_chart: ^0.68.0
+
+  # UI
+  google_fonts: ^6.2.1
+
+  # Image
+  image_picker: ^1.1.2
+
+  # HTTP (Gemini)
+  http: ^1.2.0
+
+  # Utilities
+  intl: ^0.19.0
+  shared_preferences: ^2.2.3
+  geolocator: ^11.0.0
+  permission_handler: ^11.3.0
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
