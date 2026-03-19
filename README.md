@@ -19,4 +19,8 @@ A Flutter app for real-time animal tracking, Geo-fencing, and Rescue Reporting.
 ## Built With
  Flutter • Firebase • OpenStreetMap • Gemini AI
 ## Contributors
+- @Abhinav-Prakashh
+- @AaryaRai01
 - @eshita2311
+- @KushagraTyagi26
+- @GaurikaMalviya
